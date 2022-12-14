@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\OODCF01-ShoppingCartService\src\Application\bin\Debug\net6.0\CustomerBasketManagement.Application.deps.json
+C:\Users\user\source\repos\OODCF01-ShoppingCartService\src\Application\bin\Debug\net6.0\CustomerBasketManagement.Application.dll
+C:\Users\user\source\repos\OODCF01-ShoppingCartService\src\Application\bin\Debug\net6.0\CustomerBasketManagement.Application.pdb
+C:\Users\user\source\repos\OODCF01-ShoppingCartService\src\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\OODCF01-ShoppingCartService\src\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\OODCF01-ShoppingCartService\src\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\OODCF01-ShoppingCartService\src\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\user\source\repos\OODCF01-ShoppingCartService\src\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OODCF01-ShoppingCartService\src\Application\obj\Debug\net6.0\CustomerBasketManagement.Application.dll
+C:\Users\user\source\repos\OODCF01-ShoppingCartService\src\Application\obj\Debug\net6.0\refint\CustomerBasketManagement.Application.dll
+C:\Users\user\source\repos\OODCF01-ShoppingCartService\src\Application\obj\Debug\net6.0\CustomerBasketManagement.Application.pdb
+C:\Users\user\source\repos\OODCF01-ShoppingCartService\src\Application\obj\Debug\net6.0\ref\CustomerBasketManagement.Application.dll
+C:\Users\user\source\repos\OODCF01-ShoppingCartService\src\Application\bin\Debug\net6.0\CustomerBasketManagement.Domain.dll
+C:\Users\user\source\repos\OODCF01-ShoppingCartService\src\Application\bin\Debug\net6.0\CustomerBasketManagement.Domain.pdb
+C:\Users\user\source\repos\OODCF01-ShoppingCartService\src\Application\obj\Debug\net6.0\Application.csproj.CopyComplete

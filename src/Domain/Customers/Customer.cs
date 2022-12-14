@@ -11,20 +11,20 @@ namespace CustomerBasketManagement.Domain.Customers
         public CreditCard CreditCard { get; private set; }
         public Basket Basket { get; private set; }
 
-        public Customer(string fullName)
+        public Customer(string fullName, string addressName, string cardNumber, DateTime cardExpireDate)
         {
             FullName = fullName;
-            Address = Address.Empty;
-            CreditCard = CreditCard.Empty;
+            SetAddress(addressName);
+            SetCreditCard(cardExpireDate, cardNumber);
             Basket = Basket.Empty;
         }
 
-        public void SetAddress(string addressName)
+        private void SetAddress(string addressName)
         {
             Address = new Address(addressName);
         }
 
-        public void SetCreditCard(DateTime expirationDate, string cardNumber)
+        private void SetCreditCard(DateTime expirationDate, string cardNumber)
         {
             CreditCard = new CreditCard(expirationDate, FullName, cardNumber);
         }
